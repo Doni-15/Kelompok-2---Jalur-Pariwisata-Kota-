@@ -1,0 +1,91 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Belajar SFML/File Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include",
+						"C:/Belajar SFML/File Compiler/mingw64/include",
+						"C:/Belajar SFML/File Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "C:/Belajar SFML/File Compiler/mingw64/bin/gcc.exe",
+				"version" : "15.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Belajar SFML/File Compiler/mingw64/include/c++/15.2.0",
+						"C:/Belajar SFML/File Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32",
+						"C:/Belajar SFML/File Compiler/mingw64/include/c++/15.2.0/backward",
+						"C:/Belajar SFML/File Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include",
+						"C:/Belajar SFML/File Compiler/mingw64/include",
+						"C:/Belajar SFML/File Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "C:/Belajar SFML/File Compiler/mingw64/bin/g++.exe",
+				"version" : "15.2.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/Belajar SFML/File Compiler/mingw64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

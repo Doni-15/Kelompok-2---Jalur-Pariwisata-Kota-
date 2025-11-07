@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PETA_WISATA",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PETA_WISATA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PETA_WISATA-Debug-345adb2dfcb3d9fb7233.json",
+					"name" : "PETA_WISATA",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build",
+		"source" : "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

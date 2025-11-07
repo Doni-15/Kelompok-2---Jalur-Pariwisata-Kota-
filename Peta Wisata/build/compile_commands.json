@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build",
+  "command": "C:\\BELAJA~1\\FILECO~1\\mingw64\\bin\\g++.exe  @CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp -g -o CMakeFiles\\PETA_WISATA.dir\\src\\main.cpp.obj -c \"C:\\Users\\Doni Simamora\\Documents\\KULIAH\\SEMESTER 3\\Reguler\\Struktur Data\\Pert 11\\Peta Wisata\\src\\main.cpp\"",
+  "file": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/main.cpp",
+  "output": "CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build",
+  "command": "C:\\BELAJA~1\\FILECO~1\\mingw64\\bin\\g++.exe  @CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp -g -o CMakeFiles\\PETA_WISATA.dir\\src\\models\\tampil.cpp.obj -c \"C:\\Users\\Doni Simamora\\Documents\\KULIAH\\SEMESTER 3\\Reguler\\Struktur Data\\Pert 11\\Peta Wisata\\src\\models\\tampil.cpp\"",
+  "file": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/models/tampil.cpp",
+  "output": "CMakeFiles/PETA_WISATA.dir/src/models/tampil.cpp.obj"
+}
+]

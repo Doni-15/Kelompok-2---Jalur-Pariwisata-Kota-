@@ -1,0 +1,3 @@
+C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build/CMakeFiles/PETA_WISATA.dir
+C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build/CMakeFiles/edit_cache.dir
+C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build/CMakeFiles/rebuild_cache.dir

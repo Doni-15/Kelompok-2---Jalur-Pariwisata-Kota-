@@ -3,8 +3,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj.d"
   "CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj"
   "CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj.d"
-  "CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj"
-  "CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj.d"
   "CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj"
   "CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj.d"
   "CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj"

@@ -176,30 +176,6 @@ src/gotoXY.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.s
 .PHONY : src/gotoXY.cpp.s
 
-src/loadGraph.obj: src/loadGraph.cpp.obj
-.PHONY : src/loadGraph.obj
-
-# target to build an object file
-src/loadGraph.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj
-.PHONY : src/loadGraph.cpp.obj
-
-src/loadGraph.i: src/loadGraph.cpp.i
-.PHONY : src/loadGraph.i
-
-# target to preprocess a source file
-src/loadGraph.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.i
-.PHONY : src/loadGraph.cpp.i
-
-src/loadGraph.s: src/loadGraph.cpp.s
-.PHONY : src/loadGraph.s
-
-# target to generate assembly for a file
-src/loadGraph.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.s
-.PHONY : src/loadGraph.cpp.s
-
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -263,9 +239,6 @@ help:
 	@echo ... src/gotoXY.obj
 	@echo ... src/gotoXY.i
 	@echo ... src/gotoXY.s
-	@echo ... src/loadGraph.obj
-	@echo ... src/loadGraph.i
-	@echo ... src/loadGraph.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

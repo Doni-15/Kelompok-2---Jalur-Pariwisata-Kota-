@@ -101,26 +101,11 @@ CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.s"
 	C:\BELAJA~1\FILECO~1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\src\djikstraAlgorithm.cpp" -o CMakeFiles\PETA_WISATA.dir\src\djikstraAlgorithm.cpp.s
 
-CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj: CMakeFiles/PETA_WISATA.dir/flags.make
-CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj: CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp
-CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj: C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/loadGraph.cpp
-CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj: CMakeFiles/PETA_WISATA.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj"
-	C:\BELAJA~1\FILECO~1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj -MF CMakeFiles\PETA_WISATA.dir\src\loadGraph.cpp.obj.d -o CMakeFiles\PETA_WISATA.dir\src\loadGraph.cpp.obj -c "C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\src\loadGraph.cpp"
-
-CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.i"
-	C:\BELAJA~1\FILECO~1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\src\loadGraph.cpp" > CMakeFiles\PETA_WISATA.dir\src\loadGraph.cpp.i
-
-CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.s"
-	C:\BELAJA~1\FILECO~1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\src\loadGraph.cpp" -o CMakeFiles\PETA_WISATA.dir\src\loadGraph.cpp.s
-
 CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: CMakeFiles/PETA_WISATA.dir/flags.make
 CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp
 CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/mergeSort.cpp
 CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: CMakeFiles/PETA_WISATA.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj"
 	C:\BELAJA~1\FILECO~1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj -MF CMakeFiles\PETA_WISATA.dir\src\mergeSort.cpp.obj.d -o CMakeFiles\PETA_WISATA.dir\src\mergeSort.cpp.obj -c "C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\src\mergeSort.cpp"
 
 CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.i: cmake_force
@@ -135,7 +120,7 @@ CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj: CMakeFiles/PETA_WISATA.dir/flags.
 CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj: CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp
 CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj: C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/gotoXY.cpp
 CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj: CMakeFiles/PETA_WISATA.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj"
 	C:\BELAJA~1\FILECO~1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj -MF CMakeFiles\PETA_WISATA.dir\src\gotoXY.cpp.obj.d -o CMakeFiles\PETA_WISATA.dir\src\gotoXY.cpp.obj -c "C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\src\gotoXY.cpp"
 
 CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.i: cmake_force
@@ -150,7 +135,6 @@ CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.s: cmake_force
 PETA_WISATA_OBJECTS = \
 "CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj" \
 "CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj" \
-"CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj" \
 "CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj" \
 "CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj"
 
@@ -159,14 +143,13 @@ PETA_WISATA_EXTERNAL_OBJECTS =
 
 PETA_WISATA.exe: CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj
 PETA_WISATA.exe: CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj
-PETA_WISATA.exe: CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj
 PETA_WISATA.exe: CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj
 PETA_WISATA.exe: CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj
 PETA_WISATA.exe: CMakeFiles/PETA_WISATA.dir/build.make
 PETA_WISATA.exe: CMakeFiles/PETA_WISATA.dir/linkLibs.rsp
 PETA_WISATA.exe: CMakeFiles/PETA_WISATA.dir/objects1.rsp
 PETA_WISATA.exe: CMakeFiles/PETA_WISATA.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable PETA_WISATA.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\Doni Simamora\Documents\KULIAH\SEMESTER 3\Reguler\Struktur Data\Pert 11\Peta Wisata\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable PETA_WISATA.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PETA_WISATA.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

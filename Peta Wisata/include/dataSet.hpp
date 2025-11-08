@@ -2,10 +2,15 @@
 #define DATASET_HPP
 
 #include <iostream>
-#include <map>
-#include <string>
 #include <vector>
+#include <string>
+#include <map>
 #include <cstdlib>
+#include <queue>
+#include <limits>
+#include <stack>
+
+#include "gotoXY.hpp"
 
 using namespace std;
 

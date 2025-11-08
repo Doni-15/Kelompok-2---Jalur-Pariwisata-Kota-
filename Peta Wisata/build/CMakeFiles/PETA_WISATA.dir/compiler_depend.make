@@ -22,6 +22,7 @@ CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj: C:/Users/Doni\ Simamor
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cpp_type_traits.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_forced.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_init_exception.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/deque.tcc \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/erase_if.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception_defines.h \
@@ -56,13 +57,17 @@ CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj: C:/Users/Doni\ Simamor
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_algobase.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_bvector.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_construct.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_deque.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_function.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_heap.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_funcs.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_types.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_map.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_multimap.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_pair.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_queue.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_stack.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_tree.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_uninitialized.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_vector.h \
@@ -86,6 +91,7 @@ CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj: C:/Users/Doni\ Simamor
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cwctype \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/assertions.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/debug.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/deque \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/exception \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/aligned_buffer.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/alloc_traits.h \
@@ -98,10 +104,13 @@ CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj: C:/Users/Doni\ Simamor
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/iosfwd \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/iostream \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/istream \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/limits \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/map \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/new \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ostream \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/pstl/pstl_config.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/queue \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stack \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdexcept \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdlib.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/streambuf \
@@ -162,7 +171,8 @@ CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj: C:/Users/Doni\ Simamor
   C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
   C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/dataSet.hpp \
-  C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/djikstraAlgorithm.hpp
+  C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/djikstraAlgorithm.hpp \
+  C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/gotoXY.hpp
 
 CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj: C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/gotoXY.cpp \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/_bsd_types.h \
@@ -459,169 +469,6 @@ CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj: C:/Users/Doni\ Simamora/Documents
   C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xtestintrin.h \
   C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/gotoXY.hpp
 
-CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj: C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/loadGraph.cpp \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw_mac.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw_off_t.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw_secapi.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw_stat64.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/_timeval.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/backward/binders.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bit \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/alloc_traits.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/allocator.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/basic_ios.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/basic_ios.tcc \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/basic_string.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/basic_string.tcc \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/char_traits.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/charconv.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/concept_check.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cpp_type_traits.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_forced.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_init_exception.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/erase_if.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception_defines.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception_ptr.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/functexcept.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/functional_hash.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/hash_bytes.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/invoke.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/ios_base.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/istream.tcc \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/locale_classes.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/locale_classes.tcc \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/locale_facets.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/locale_facets.tcc \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/localefwd.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/memory_resource.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/memoryfwd.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/move.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/nested_exception.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/new_allocator.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/node_handle.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/ostream.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/ostream.tcc \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/ostream_insert.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/postypes.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/predefined_ops.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/ptr_traits.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/range_access.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/refwrap.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/requires_hosted.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/std_abs.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_algobase.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_bvector.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_construct.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_function.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_funcs.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_types.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_map.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_multimap.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_pair.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_tree.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_uninitialized.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_vector.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/streambuf.tcc \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/streambuf_iterator.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/string_view.tcc \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stringfwd.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/uses_allocator.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/uses_allocator_args.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/utility.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/vector.tcc \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/version.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cctype \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cerrno \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/clocale \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/concepts \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cstddef \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cstdio \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cstdlib \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cwchar \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cwctype \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/assertions.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/debug.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/exception \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/aligned_buffer.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/alloc_traits.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/atomicity.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/numeric_traits.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/string_conversions.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/type_traits.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/initializer_list \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ios \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/iosfwd \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/iostream \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/istream \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/map \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/new \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ostream \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/pstl/pstl_config.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdexcept \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdlib.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/streambuf \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/string \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/string_view \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/system_error \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/tuple \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/type_traits \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/typeinfo \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/vector \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++locale.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_base.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_inline.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/error_constants.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr-default.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/os_defines.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_startup.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_stdio_config.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_wctype.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_wstdlib.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/crtdefs.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/ctype.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/errno.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/limits.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/locale.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/malloc.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/process.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread_compat.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread_signal.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread_time.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread_unistd.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sched.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sdks/_mingw_ddk.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sec_api/stdio_s.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sec_api/stdlib_s.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sec_api/sys/timeb_s.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sec_api/wchar_s.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/signal.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/stddef.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/stdio.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/stdlib.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/swprintf.inl \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sys/timeb.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sys/types.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/time.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/vadefs.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/wchar.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/include/wctype.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
-  C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
-  C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/dataSet.hpp \
-  C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/loadGraph.hpp
-
 CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj: C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/main.cpp \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw_mac.h \
@@ -643,6 +490,7 @@ CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj: C:/Users/Doni\ Simamora/Documents/K
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cpp_type_traits.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_forced.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_init_exception.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/deque.tcc \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/erase_if.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception_defines.h \
@@ -677,13 +525,17 @@ CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj: C:/Users/Doni\ Simamora/Documents/K
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_algobase.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_bvector.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_construct.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_deque.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_function.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_heap.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_funcs.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_types.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_map.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_multimap.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_pair.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_queue.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_stack.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_tree.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_uninitialized.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_vector.h \
@@ -707,6 +559,7 @@ CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj: C:/Users/Doni\ Simamora/Documents/K
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cwctype \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/assertions.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/debug.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/deque \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/exception \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/aligned_buffer.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/alloc_traits.h \
@@ -719,10 +572,13 @@ CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj: C:/Users/Doni\ Simamora/Documents/K
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/iosfwd \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/iostream \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/istream \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/limits \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/map \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/new \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ostream \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/pstl/pstl_config.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/queue \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stack \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdexcept \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdlib.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/streambuf \
@@ -784,7 +640,7 @@ CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj: C:/Users/Doni\ Simamora/Documents/K
   C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
   C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/dataSet.hpp \
   C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/djikstraAlgorithm.hpp \
-  C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/loadGraph.hpp \
+  C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/gotoXY.hpp \
   C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/mergeSort.hpp
 
 CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/mergeSort.cpp \
@@ -808,6 +664,7 @@ CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: C:/Users/Doni\ Simamora/Docume
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cpp_type_traits.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_forced.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_init_exception.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/deque.tcc \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/erase_if.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception_defines.h \
@@ -842,13 +699,17 @@ CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: C:/Users/Doni\ Simamora/Docume
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_algobase.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_bvector.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_construct.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_deque.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_function.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_heap.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_funcs.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_types.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_map.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_multimap.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_pair.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_queue.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_stack.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_tree.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_uninitialized.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_vector.h \
@@ -872,6 +733,7 @@ CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: C:/Users/Doni\ Simamora/Docume
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cwctype \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/assertions.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/debug.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/deque \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/exception \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/aligned_buffer.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ext/alloc_traits.h \
@@ -884,10 +746,13 @@ CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: C:/Users/Doni\ Simamora/Docume
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/iosfwd \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/iostream \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/istream \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/limits \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/map \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/new \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ostream \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/pstl/pstl_config.h \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/queue \
+  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stack \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdexcept \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdlib.h \
   C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/streambuf \
@@ -951,8 +816,6 @@ CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: C:/Users/Doni\ Simamora/Docume
   C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/gotoXY.hpp \
   C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/mergeSort.hpp
 
-
-C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/loadGraph.cpp:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xtestintrin.h:
 
@@ -1068,8 +931,6 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/includ
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxmovrsintrin.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxint8intrin.h:
-
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxfp16intrin.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxcomplexintrin.h:
@@ -1132,8 +993,6 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/includ
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/systemtopologyapi.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/sysinfoapi.h:
-
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/synchapi.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/stringapiset.h:
@@ -1160,33 +1019,19 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/servprov.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/sdkddkver.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqintrin.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcsal.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_wctype.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcnsip.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cwchar:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcnsi.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_stdio_config.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/serializeintrin.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_wstdlib.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcndr.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/locale_classes.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcdcep.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/locale.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/f16cintrin.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vnniintrin.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cstddef:
-
-C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/gotoXY.hpp:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxtileintrin.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_function.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpc.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++locale.h:
 
@@ -1198,21 +1043,7 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/limits.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/processthreadsapi.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_startup.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/signal.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cmpccxaddintrin.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/mmiscapi2.h:
-
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/type_traits:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/assertions.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcnsip.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/winuser.h:
 
@@ -1236,6 +1067,12 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdexcept:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/system_error:
 
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/sysinfoapi.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stack:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/malloc.h:
+
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_multimap.h:
 
 C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/main.cpp:
@@ -1247,6 +1084,8 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ostream:
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/playsoundapi.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/map:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/utility.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fmaintrin.h:
 
@@ -1270,13 +1109,19 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cstdio:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/ios:
 
+C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/f16cintrin.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vnniintrin.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cstddef:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr.h:
+
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512satcvtintrin.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++allocator.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_pair.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcdcep.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/concepts:
 
@@ -1285,6 +1130,12 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/memoryfwd.h:
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/memoryapi.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/timezoneapi.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcnterr.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cerrno:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/virtdisk.h:
 
@@ -1302,17 +1153,23 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/includ
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/vector.tcc:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/consoleapi2.h:
-
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/streambuf_iterator.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_tree.h:
 
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_stack.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/sal.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/_bsd_types.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/os_defines.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_queue.h:
+
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stdlib.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/vector:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/dlgs.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512ifmaintrin.h:
 
@@ -1320,11 +1177,41 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_uninitialize
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_map.h:
 
+C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clwbintrin.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cwctype:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/invoke.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/unknwnbase.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/consoleapi2.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/streambuf:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread_unistd.h:
+
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/windef.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/concept_check.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/utility.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/locale_classes.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_wstdlib.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/locale.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cwchar:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/assertions.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqintrin.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_wctype.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/cpu_defines.h:
 
@@ -1338,12 +1225,6 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/pshpack1.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/bemapiset.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/_bsd_types.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/os_defines.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/sal.h:
-
 C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/src/mergeSort.cpp:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/wow64apiset.h:
@@ -1353,6 +1234,8 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/winnetwk.h:
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/urlmon.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/new:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_deque.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/streambuf.tcc:
 
@@ -1383,8 +1266,6 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/debug/debug.h:
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/winefs.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/ios_base.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr-default.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/wtypesbase.h:
 
@@ -1426,6 +1307,8 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_vector.h:
 
 C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/mergeSort.hpp:
 
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/deque.tcc:
+
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/backward/binders.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception.h:
@@ -1435,6 +1318,10 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/iostream:
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cstdlib:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_forced.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_funcs.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/dde.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/oleidl.h:
 
@@ -1452,8 +1339,6 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/initializer_list:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/namedpipeapi.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpc.h:
-
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/smmintrin.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/ole2.h:
@@ -1461,14 +1346,6 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/ole2.h:
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/cxxabi_init_exception.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/istream:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcnsi.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/invoke.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/dde.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_funcs.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/ostream_insert.h:
 
@@ -1481,6 +1358,10 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/functexcept.h:
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/exception_ptr.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/sec_api/sys/timeb_s.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/pstl/pstl_config.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/sys/timeb.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/string:
 
@@ -1496,23 +1377,35 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/ptr_traits.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw_unicode.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/streambuf:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread_unistd.h:
-
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_bvector.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcdce.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/refwrap.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/locale_facets.tcc:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/localefwd.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxint8intrin.h:
 
-C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/loadGraph.hpp:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_heap.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/localefwd.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/bmi2intrin.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/psdk_inc/intrin-impl.h:
 
+C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sm4intrin.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcasync.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/sched.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/uses_allocator.h:
+
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/node_handle.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/limits:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw_secapi.h:
 
@@ -1528,17 +1421,19 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/_mingw_off_t.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/std_abs.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/unknwnbase.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/dlgs.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr-default.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clwbintrin.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_startup.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cwctype:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/signal.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/pstl/pstl_config.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cmpccxaddintrin.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/sys/timeb.h:
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/mmiscapi2.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/corecrt_stdio_config.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/winsock.h:
 
@@ -1556,13 +1451,9 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/apisetcconv.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/errno.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/malloc.h:
-
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread_compat.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/pshpack4.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcsal.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_iterator_base_types.h:
 
@@ -1573,12 +1464,6 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/pthread_time.h:
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/uintrintrin.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/fltwinerror.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/timezoneapi.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/cerrno:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcnterr.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/error_constants.h:
 
@@ -1621,6 +1506,14 @@ C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert
 C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/djikstraAlgorithm.hpp:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/nb30.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxtileintrin.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_function.h:
+
+C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert\ 11/Peta\ Wisata/include/gotoXY.hpp:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/queue:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/process.h:
 
@@ -1680,10 +1573,6 @@ C:/Users/Doni\ Simamora/Documents/KULIAH/SEMESTER\ 3/Reguler/Struktur\ Data/Pert
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/errhandlingapi.h:
 
-C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/serializeintrin.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcndr.h:
-
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/winbase.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/memory_resource.h:
@@ -1705,6 +1594,8 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/handleapi.h:
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/specstrings.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/heapapi.h:
+
+C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/deque:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/processenv.h:
 
@@ -1805,15 +1696,3 @@ C:/Belajar\ SFML/File\ Compiler/mingw64/include/pshpack8.h:
 C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/prfchwintrin.h:
 
 C:/Belajar\ SFML/File\ Compiler/mingw64/include/reason.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sm4intrin.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/sched.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/uses_allocator.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcasync.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/refwrap.h:
-
-C:/Belajar\ SFML/File\ Compiler/mingw64/include/rpcdce.h:

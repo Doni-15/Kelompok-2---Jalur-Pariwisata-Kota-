@@ -1,5 +1,4 @@
 #include "mergeSort.hpp"
-#include "gotoXY.hpp"
 
 MergeSort::MergeSort(){
     vector<string> namaLokasi;
@@ -21,10 +20,10 @@ MergeSort::MergeSort(){
     } while (pilihan < 1 || pilihan > 2);
 
     cout << "Mengurutkan berdasarakan " << mode << endl;
-    MergeSort::devine(namaLokasi, 0, n - 1, mode);
+    devine(namaLokasi, 0, n - 1, mode);
 
     string judul = (mode == "rating") ? "Hasil Sorting (Rating Tertinggi)" : "Hasil Sorting (Poin Termurah)";
-    MergeSort::printList(judul, namaLokasi);
+    printList(judul, namaLokasi);
 }
 
 bool MergeSort::compare(const string& a, const string& b, const string& mode){
@@ -59,7 +58,7 @@ void MergeSort::conquere(vector<string>& arr, int left, int mid, int right, cons
     int k = left;
 
     while (i < n1 && j < n2) {
-        if (MergeSort::compare(L[i], R[j], mode)) {
+        if (compare(L[i], R[j], mode)) {
             arr[k] = L[i];
             i++;
         } 
@@ -87,24 +86,25 @@ void MergeSort::devine(vector<string>& arr, int left, int right, const string& m
     if(left >= right) return;
 
     int mid = left + (right - left) / 2;
-    MergeSort::devine(arr, left, mid, mode);
-    MergeSort::devine(arr, mid + 1, right, mode);
+    devine(arr, left, mid, mode);
+    devine(arr, mid + 1, right, mode);
 
-    MergeSort::conquere(arr, left, mid, right, mode);
+    conquere(arr, left, mid, right, mode);
 }
 
 void MergeSort::printList(const string& judul, const vector<string>& namaDaftar){
     system("cls");
-    gotoxy(40, 0); cout << "--- " << judul << " ---";
-
     string garis(130, '-');
-    gotoxy(0, 1); cout << garis;
+
+    gotoxy(0, 0); cout << garis;
+    gotoxy(40, 1); cout << "--- " << judul << " ---";
+    gotoxy(0, 2); cout << garis;
 
     const int itemsPerColumn = 5;
     const int columnWidth = 35;
     const int itemHeight = 4;     // Tiap item butuh 4 baris (3 cetak + 1 spasi)
     const int startX = 0;
-    const int startY = 3;
+    const int startY = 4;
 
     int rank = 1;
     for(const string& nama : namaDaftar){

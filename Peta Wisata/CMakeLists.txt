@@ -6,7 +6,6 @@ project(PETA_WISATA)
 add_executable(PETA_WISATA
     src/main.cpp
     src/djikstraAlgorithm.cpp
-    src/loadGraph.cpp
     src/mergeSort.cpp
     src/gotoXY.cpp
 )

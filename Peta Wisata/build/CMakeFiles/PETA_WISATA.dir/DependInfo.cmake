@@ -10,7 +10,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/djikstraAlgorithm.cpp" "CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj" "gcc" "CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj.d"
   "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/gotoXY.cpp" "CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj" "gcc" "CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj.d"
-  "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/loadGraph.cpp" "CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj" "gcc" "CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj.d"
   "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/main.cpp" "CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj" "gcc" "CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj.d"
   "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/mergeSort.cpp" "CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj" "gcc" "CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj.d"
   )

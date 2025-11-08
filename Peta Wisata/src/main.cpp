@@ -2,16 +2,45 @@
 #include "mergeSort.hpp"
 
 void tampilkanSemuaLokasi();
+void inputLokasi();
 
 vector<string> namaLokasi;
-
-// MergeSort sorting;
-// DjikstraAlgorithm djikstra;
+MergeSort sorting;
+DjikstraAlgorithm djikstra;
 
 int main(){
     system("cls");
+    int pilihanFitur;
+
     tampilkanSemuaLokasi();
-    cout << "Masukkan : " << namaLokasi.size();
+
+    cout << "Pilihan fitur " << endl;
+    cout << "[1]. Urutkan lokasi" << endl;
+    cout << "[2]. Cari rute terpendek" << endl;
+
+    do{
+        cout << "\nPilih fitur (1-2) : "; cin >> pilihanFitur;
+
+        if (pilihanFitur == 1){
+            sorting.jalankanSorting();
+        }
+        else if(pilihanFitur == 2){
+            inputLokasi();
+        }
+        
+    } while (!validasiPilihan(1, 2, pilihanFitur));
+}
+
+void inputLokasi(){
+    int posisiAwal, tujuan;
+    do{
+        cout << "\nMasukkan angka sesuai dengan nomor kota di atas" << endl;
+        cout << "Masukkan posisi anda sekarang : "; cin >> posisiAwal;
+        cout << "Masukkan lokasi tujuan anda   : "; cin >> tujuan;
+        
+    } while (!validasiPilihan(1, 20, posisiAwal) || !validasiPilihan(1, 20, tujuan));
+    
+    djikstra.cariRuteTerpendek(namaLokasi[posisiAwal - 1], namaLokasi[tujuan - 1]);
 }
 
 void tampilkanSemuaLokasi(){

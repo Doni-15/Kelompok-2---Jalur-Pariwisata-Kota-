@@ -1,27 +1,29 @@
 #include "mergeSort.hpp"
 
-MergeSort::MergeSort(){
+MergeSort::MergeSort(){}
+
+void MergeSort::jalankanSorting(){
     vector<string> namaLokasi;
     for(const auto& pasangan : data_peta_lengkap){
         namaLokasi.push_back(pasangan.first);
     }
-
+    
     int n = namaLokasi.size();
     int pilihan;
     string mode;
-
+    
     do{
-        cout << "Ingin mengurutkan berdasarkan" << endl;
+        cout << "\nIngin mengurutkan berdasarkan" << endl;
         cout << "[1]. Rating" << endl;
         cout << "[2]. Poin Tiket Termurah" << endl;
     
         cout << "\nPilihan : "; cin >> pilihan;
         mode = pilihan == 1 ? "rating" : "poin";
     } while (pilihan < 1 || pilihan > 2);
-
+    
     cout << "Mengurutkan berdasarakan " << mode << endl;
     devine(namaLokasi, 0, n - 1, mode);
-
+    
     string judul = (mode == "rating") ? "Hasil Sorting (Rating Tertinggi)" : "Hasil Sorting (Poin Termurah)";
     printList(judul, namaLokasi);
 }

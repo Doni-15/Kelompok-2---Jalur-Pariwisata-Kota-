@@ -12,6 +12,7 @@ class MergeSort{
 
     public:
         MergeSort();
+        void jalankanSorting();
 };
 
 #endif

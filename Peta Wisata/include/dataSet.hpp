@@ -1,18 +1,8 @@
 #ifndef DATASET_HPP
 #define DATASET_HPP
 
-#include <iostream>
-#include <vector>
-#include <string>
-#include <map>
-#include <cstdlib>
-#include <queue>
-#include <limits>
-#include <stack>
-
 #include "gotoXY.hpp"
 
-using namespace std;
 
 struct Koneksi {
     string namaTujuan;

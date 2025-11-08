@@ -1,7 +1,7 @@
 #ifndef LOADGRAPH_HPP
 #define LOADGRAPH_HPP
 
-#include "../Data Set/dataSet.hpp"
+#include "dataSet.hpp"
 
 class LoadGraph{
     private:

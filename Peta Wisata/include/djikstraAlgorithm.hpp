@@ -1,7 +1,7 @@
 #ifndef DJIKSTRAALGORITHM_HPP
 #define DJIKSTRAALGORITHM_HPP
 
-#include "../Data Set/dataSet.hpp"
+#include "dataSet.hpp"
 
 class DjikstraAlgorithm{
     private:

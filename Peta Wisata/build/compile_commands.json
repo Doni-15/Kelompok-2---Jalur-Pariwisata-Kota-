@@ -7,8 +7,20 @@
 },
 {
   "directory": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build",
-  "command": "C:\\BELAJA~1\\FILECO~1\\mingw64\\bin\\g++.exe  @CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp -g -o CMakeFiles\\PETA_WISATA.dir\\src\\models\\tampil.cpp.obj -c \"C:\\Users\\Doni Simamora\\Documents\\KULIAH\\SEMESTER 3\\Reguler\\Struktur Data\\Pert 11\\Peta Wisata\\src\\models\\tampil.cpp\"",
-  "file": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/models/tampil.cpp",
-  "output": "CMakeFiles/PETA_WISATA.dir/src/models/tampil.cpp.obj"
+  "command": "C:\\BELAJA~1\\FILECO~1\\mingw64\\bin\\g++.exe  @CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp -g -o CMakeFiles\\PETA_WISATA.dir\\src\\djikstraAlgorithm.cpp.obj -c \"C:\\Users\\Doni Simamora\\Documents\\KULIAH\\SEMESTER 3\\Reguler\\Struktur Data\\Pert 11\\Peta Wisata\\src\\djikstraAlgorithm.cpp\"",
+  "file": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/djikstraAlgorithm.cpp",
+  "output": "CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj"
+},
+{
+  "directory": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build",
+  "command": "C:\\BELAJA~1\\FILECO~1\\mingw64\\bin\\g++.exe  @CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp -g -o CMakeFiles\\PETA_WISATA.dir\\src\\loadGraph.cpp.obj -c \"C:\\Users\\Doni Simamora\\Documents\\KULIAH\\SEMESTER 3\\Reguler\\Struktur Data\\Pert 11\\Peta Wisata\\src\\loadGraph.cpp\"",
+  "file": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/loadGraph.cpp",
+  "output": "CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj"
+},
+{
+  "directory": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build",
+  "command": "C:\\BELAJA~1\\FILECO~1\\mingw64\\bin\\g++.exe  @CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp -g -o CMakeFiles\\PETA_WISATA.dir\\src\\mergeSort.cpp.obj -c \"C:\\Users\\Doni Simamora\\Documents\\KULIAH\\SEMESTER 3\\Reguler\\Struktur Data\\Pert 11\\Peta Wisata\\src\\mergeSort.cpp\"",
+  "file": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/mergeSort.cpp",
+  "output": "CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj"
 }
 ]

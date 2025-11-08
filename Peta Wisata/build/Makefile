@@ -128,6 +128,54 @@ PETA_WISATA/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/build
 .PHONY : PETA_WISATA/fast
 
+src/djikstraAlgorithm.obj: src/djikstraAlgorithm.cpp.obj
+.PHONY : src/djikstraAlgorithm.obj
+
+# target to build an object file
+src/djikstraAlgorithm.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.obj
+.PHONY : src/djikstraAlgorithm.cpp.obj
+
+src/djikstraAlgorithm.i: src/djikstraAlgorithm.cpp.i
+.PHONY : src/djikstraAlgorithm.i
+
+# target to preprocess a source file
+src/djikstraAlgorithm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.i
+.PHONY : src/djikstraAlgorithm.cpp.i
+
+src/djikstraAlgorithm.s: src/djikstraAlgorithm.cpp.s
+.PHONY : src/djikstraAlgorithm.s
+
+# target to generate assembly for a file
+src/djikstraAlgorithm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.s
+.PHONY : src/djikstraAlgorithm.cpp.s
+
+src/loadGraph.obj: src/loadGraph.cpp.obj
+.PHONY : src/loadGraph.obj
+
+# target to build an object file
+src/loadGraph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.obj
+.PHONY : src/loadGraph.cpp.obj
+
+src/loadGraph.i: src/loadGraph.cpp.i
+.PHONY : src/loadGraph.i
+
+# target to preprocess a source file
+src/loadGraph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.i
+.PHONY : src/loadGraph.cpp.i
+
+src/loadGraph.s: src/loadGraph.cpp.s
+.PHONY : src/loadGraph.s
+
+# target to generate assembly for a file
+src/loadGraph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/loadGraph.cpp.s
+.PHONY : src/loadGraph.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -152,29 +200,29 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
-src/models/tampil.obj: src/models/tampil.cpp.obj
-.PHONY : src/models/tampil.obj
+src/mergeSort.obj: src/mergeSort.cpp.obj
+.PHONY : src/mergeSort.obj
 
 # target to build an object file
-src/models/tampil.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/models/tampil.cpp.obj
-.PHONY : src/models/tampil.cpp.obj
+src/mergeSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj
+.PHONY : src/mergeSort.cpp.obj
 
-src/models/tampil.i: src/models/tampil.cpp.i
-.PHONY : src/models/tampil.i
+src/mergeSort.i: src/mergeSort.cpp.i
+.PHONY : src/mergeSort.i
 
 # target to preprocess a source file
-src/models/tampil.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/models/tampil.cpp.i
-.PHONY : src/models/tampil.cpp.i
+src/mergeSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.i
+.PHONY : src/mergeSort.cpp.i
 
-src/models/tampil.s: src/models/tampil.cpp.s
-.PHONY : src/models/tampil.s
+src/mergeSort.s: src/mergeSort.cpp.s
+.PHONY : src/mergeSort.s
 
 # target to generate assembly for a file
-src/models/tampil.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/models/tampil.cpp.s
-.PHONY : src/models/tampil.cpp.s
+src/mergeSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.s
+.PHONY : src/mergeSort.cpp.s
 
 # Help Target
 help:
@@ -185,12 +233,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... PETA_WISATA
+	@echo ... src/djikstraAlgorithm.obj
+	@echo ... src/djikstraAlgorithm.i
+	@echo ... src/djikstraAlgorithm.s
+	@echo ... src/loadGraph.obj
+	@echo ... src/loadGraph.i
+	@echo ... src/loadGraph.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
-	@echo ... src/models/tampil.obj
-	@echo ... src/models/tampil.i
-	@echo ... src/models/tampil.s
+	@echo ... src/mergeSort.obj
+	@echo ... src/mergeSort.i
+	@echo ... src/mergeSort.s
 .PHONY : help
 
 

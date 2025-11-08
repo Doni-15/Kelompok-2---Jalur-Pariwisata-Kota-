@@ -1,7 +1,7 @@
 #ifndef MERGESORT_HPP
 #define MERGESORT_HPP
 
-#include "../Data Set/dataSet.hpp"
+#include "dataSet.hpp"
 
 class MergeSort{
     private:

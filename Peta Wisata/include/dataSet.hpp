@@ -5,6 +5,7 @@
 #include <map>
 #include <string>
 #include <vector>
+#include <cstdlib>
 
 using namespace std;
 
@@ -16,7 +17,7 @@ struct Koneksi {
 struct Lokasi {
     string tipe;
     float rating;
-    int hargaTiket;
+    int poin;
     vector<Koneksi> daftarTetangga;
 };
 

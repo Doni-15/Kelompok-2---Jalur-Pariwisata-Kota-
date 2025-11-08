@@ -152,6 +152,30 @@ src/djikstraAlgorithm.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/djikstraAlgorithm.cpp.s
 .PHONY : src/djikstraAlgorithm.cpp.s
 
+src/gotoXY.obj: src/gotoXY.cpp.obj
+.PHONY : src/gotoXY.obj
+
+# target to build an object file
+src/gotoXY.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj
+.PHONY : src/gotoXY.cpp.obj
+
+src/gotoXY.i: src/gotoXY.cpp.i
+.PHONY : src/gotoXY.i
+
+# target to preprocess a source file
+src/gotoXY.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.i
+.PHONY : src/gotoXY.cpp.i
+
+src/gotoXY.s: src/gotoXY.cpp.s
+.PHONY : src/gotoXY.s
+
+# target to generate assembly for a file
+src/gotoXY.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.s
+.PHONY : src/gotoXY.cpp.s
+
 src/loadGraph.obj: src/loadGraph.cpp.obj
 .PHONY : src/loadGraph.obj
 
@@ -236,6 +260,9 @@ help:
 	@echo ... src/djikstraAlgorithm.obj
 	@echo ... src/djikstraAlgorithm.i
 	@echo ... src/djikstraAlgorithm.s
+	@echo ... src/gotoXY.obj
+	@echo ... src/gotoXY.i
+	@echo ... src/gotoXY.s
 	@echo ... src/loadGraph.obj
 	@echo ... src/loadGraph.i
 	@echo ... src/loadGraph.s

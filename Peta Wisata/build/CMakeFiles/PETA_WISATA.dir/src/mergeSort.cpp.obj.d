@@ -160,4 +160,5 @@ CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj: \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_uninitialized.h \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_vector.h \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_bvector.h \
- C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/vector.tcc
+ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/vector.tcc \
+ C:/Users/DONISI~1/DOCUME~1/KULIAH/SEMEST~3/Reguler/STRUKT~1/PERT11~1/PETAWI~1/include/gotoXY.hpp

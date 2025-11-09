@@ -167,8 +167,6 @@ CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj: \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_heap.h \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_queue.h \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/limits \
- C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/stack \
- C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_stack.h \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/windows.h \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sdkddkver.h \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/excpt.h \
@@ -436,4 +434,11 @@ CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj: \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/sec_api/stralign_s.h \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/winsvc.h \
  C:/Belajar\ SFML/File\ Compiler/mingw64/include/mcx.h \
- C:/Belajar\ SFML/File\ Compiler/mingw64/include/imm.h
+ C:/Belajar\ SFML/File\ Compiler/mingw64/include/imm.h \
+ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/algorithm \
+ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_algo.h \
+ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/algorithmfwd.h \
+ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/uniform_int_dist.h \
+ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/bits/stl_tempbuf.h \
+ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/pstl/glue_algorithm_defs.h \
+ C:/Belajar\ SFML/File\ Compiler/mingw64/include/c++/15.2.0/pstl/execution_defs.h

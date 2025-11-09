@@ -8,8 +8,8 @@
 #include <cstdlib>
 #include <queue>
 #include <limits>
-#include <stack>
 #include <windows.h>
+#include <algorithm>
 
 
 using namespace std;

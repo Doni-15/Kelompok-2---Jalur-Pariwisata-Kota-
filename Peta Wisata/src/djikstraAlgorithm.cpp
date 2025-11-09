@@ -36,7 +36,34 @@ void DjikstraAlgorithm::cariRuteTerpendek(const string& lokasiAwal, const string
             }
         }
     }
+
+    cout << "\n--- Hasil Rute ---" << endl;
+    if(dist.at(lokasiTujuan) == INF){
+        cout << "Tidak ada rute yang ditemukan dari " << lokasiAwal << " ke " << lokasiTujuan << endl;
+    }
+    else{
+        cout << "Jarak terpendek : " << dist.at(lokasiTujuan) << " meter" << endl;
+        cetakRute(lokasiAwal, lokasiTujuan, ruteSebelumnya);
+    }
 }
 
-// void DjikstraAlgorithm::cetakRute(const string& lokasiAwal, const string& lokasiTujuan, map<string, string>& ruteSebelumnya){
-// }
+void DjikstraAlgorithm::cetakRute(const string& lokasiAwal, const string& lokasiTujuan, map<string, string>& ruteSebelumnya){
+    vector<string> rute;
+    string saatIni = lokasiTujuan;
+
+    while(saatIni != lokasiAwal){
+        rute.push_back(saatIni);
+        if(ruteSebelumnya.find(saatIni) == ruteSebelumnya.end()) break;
+        saatIni = ruteSebelumnya.at(saatIni);
+    }
+
+    reverse(rute.begin(), rute.end());
+    cout << "Rute            : ";
+    for (size_t i = 0; i < rute.size(); ++i) {
+        cout << rute[i];
+        if (i < rute.size() - 1) {
+            cout << " -> ";
+        }
+    }
+    cout << endl;
+}

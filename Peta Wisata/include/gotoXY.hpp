@@ -8,7 +8,6 @@
 #include <cstdlib>
 #include <queue>
 #include <limits>
-#include <windows.h>
 #include <algorithm>
 
 
@@ -16,5 +15,6 @@ using namespace std;
 
 void gotoxy(int x, int y);
 bool validasiPilihan(int awal, int akhir, int pilih);
+void clearScreen();
 
 #endif

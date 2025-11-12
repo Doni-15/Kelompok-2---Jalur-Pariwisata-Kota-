@@ -95,7 +95,7 @@ void MergeSort::devine(vector<string>& arr, int left, int right, const string& m
 }
 
 void MergeSort::printList(const string& judul, const vector<string>& namaDaftar){
-    system("cls");
+    clearScreen();
     string garis(130, '-');
 
     gotoxy(0, 0); cout << garis;
@@ -104,7 +104,7 @@ void MergeSort::printList(const string& judul, const vector<string>& namaDaftar)
 
     const int itemsPerColumn = 5;
     const int columnWidth = 35;
-    const int itemHeight = 4;     // Tiap item butuh 4 baris (3 cetak + 1 spasi)
+    const int itemHeight = 4;  
     const int startX = 0;
     const int startY = 4;
 

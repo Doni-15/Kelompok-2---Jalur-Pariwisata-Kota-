@@ -9,7 +9,6 @@ MergeSort sorting;
 DjikstraAlgorithm djikstra;
 
 int main(){
-    system("cls");
     int pilihanFitur;
 
     tampilkanSemuaLokasi();

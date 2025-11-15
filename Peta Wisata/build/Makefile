@@ -224,6 +224,30 @@ src/mergeSort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.s
 .PHONY : src/mergeSort.cpp.s
 
+src/searching.obj: src/searching.cpp.obj
+.PHONY : src/searching.obj
+
+# target to build an object file
+src/searching.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/searching.cpp.obj
+.PHONY : src/searching.cpp.obj
+
+src/searching.i: src/searching.cpp.i
+.PHONY : src/searching.i
+
+# target to preprocess a source file
+src/searching.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/searching.cpp.i
+.PHONY : src/searching.cpp.i
+
+src/searching.s: src/searching.cpp.s
+.PHONY : src/searching.s
+
+# target to generate assembly for a file
+src/searching.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PETA_WISATA.dir\build.make CMakeFiles/PETA_WISATA.dir/src/searching.cpp.s
+.PHONY : src/searching.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -245,6 +269,9 @@ help:
 	@echo ... src/mergeSort.obj
 	@echo ... src/mergeSort.i
 	@echo ... src/mergeSort.s
+	@echo ... src/searching.obj
+	@echo ... src/searching.i
+	@echo ... src/searching.s
 .PHONY : help
 
 

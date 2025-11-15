@@ -1,7 +1,10 @@
 #include "gotoXY.hpp"
 
 void gotoxy(int x, int y) {
-    cout << "\033[" << y << ";" << x << "H";
+    COORD coord;
+    coord.X = x;
+    coord.Y = y;
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
 }
 
 bool validasiPilihan(int awal, int akhir, int pilih){
@@ -13,5 +16,5 @@ bool validasiPilihan(int awal, int akhir, int pilih){
 }
 
 void clearScreen() {
-    cout << "\033[2J\033[1;1H";
+    system("cls");
 }

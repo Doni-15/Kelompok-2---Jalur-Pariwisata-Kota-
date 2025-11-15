@@ -10,6 +10,7 @@ add_executable(PETA_WISATA
     src/djikstraAlgorithm.cpp
     src/mergeSort.cpp
     src/gotoXY.cpp
+    src/searching.cpp
 )
 
 target_include_directories(PETA_WISATA PUBLIC 

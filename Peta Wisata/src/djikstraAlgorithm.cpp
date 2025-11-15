@@ -58,7 +58,7 @@ void DjikstraAlgorithm::cetakRute(const string& lokasiAwal, const string& lokasi
     }
 
     reverse(rute.begin(), rute.end());
-    cout << "Rute            : ";
+    cout << "Rute            : "; cout << lokasiAwal << " -> ";
     for (size_t i = 0; i < rute.size(); ++i) {
         cout << rute[i];
         if (i < rute.size() - 1) {

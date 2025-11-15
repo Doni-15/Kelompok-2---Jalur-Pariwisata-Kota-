@@ -102,26 +102,28 @@ void MergeSort::printList(const string& judul, const vector<string>& namaDaftar)
     gotoxy(40, 1); cout << "--- " << judul << " ---";
     gotoxy(0, 2); cout << garis;
 
-    const int itemsPerColumn = 5;
-    const int columnWidth = 35;
-    const int itemHeight = 4;  
-    const int startX = 0;
-    const int startY = 4;
+    int i = 0, j = 1;
+    int col = 0;
+    int startY = 4;
+    const int maxHeight = 22;
+    const int maxWidth = 28;
 
-    int rank = 1;
     for(const string& nama : namaDaftar){
         const Lokasi& data = data_peta_lengkap.at(nama);
-        string n(to_string(abs(rank)).length(), ' ');
+        string n(to_string(abs(j)).length(), ' ');
 
-        int col = (rank - 1) / itemsPerColumn;
-        int row = (rank - 1) % itemsPerColumn;
-        int currentX = startX + (col * columnWidth);
-        int currentY_base = startY + (row * itemHeight);
+        gotoxy(col * maxWidth, i + startY); cout << j << ". " << nama;
+        gotoxy(col * maxWidth, startY + i + 1);
+        cout << n << "  ( " << data.rating << " )" << " -- Poin " << data.poin;
 
-        gotoxy(currentX, currentY_base); cout << rank << ". " << nama;
-        gotoxy(currentX, currentY_base + 1); cout << n << "  Rating : " << data.rating;
-        gotoxy(currentX, currentY_base + 2); cout << n << "  Poin   : " << data.poin;
-        
-        rank++;
+        if (i == maxHeight){
+            i = 0;
+            col++;
+        }
+        else {
+            i += 2;
+        }
+
+        j++;
     }
 }

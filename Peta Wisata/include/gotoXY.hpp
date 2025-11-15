@@ -9,7 +9,10 @@
 #include <queue>
 #include <limits>
 #include <algorithm>
-
+#include <windows.h> 
+#include <cmath>
+#include <functional>
+#include <limits>
 
 using namespace std;
 

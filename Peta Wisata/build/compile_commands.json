@@ -22,5 +22,11 @@
   "command": "C:\\BELAJA~1\\FILECO~1\\mingw64\\bin\\g++.exe  @CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\PETA_WISATA.dir\\src\\gotoXY.cpp.obj -c \"C:\\Users\\Doni Simamora\\Documents\\KULIAH\\SEMESTER 3\\Reguler\\Struktur Data\\Pert 11\\Peta Wisata\\src\\gotoXY.cpp\"",
   "file": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/gotoXY.cpp",
   "output": "CMakeFiles/PETA_WISATA.dir/src/gotoXY.cpp.obj"
+},
+{
+  "directory": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/build",
+  "command": "C:\\BELAJA~1\\FILECO~1\\mingw64\\bin\\g++.exe  @CMakeFiles/PETA_WISATA.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\PETA_WISATA.dir\\src\\searching.cpp.obj -c \"C:\\Users\\Doni Simamora\\Documents\\KULIAH\\SEMESTER 3\\Reguler\\Struktur Data\\Pert 11\\Peta Wisata\\src\\searching.cpp\"",
+  "file": "C:/Users/Doni Simamora/Documents/KULIAH/SEMESTER 3/Reguler/Struktur Data/Pert 11/Peta Wisata/src/searching.cpp",
+  "output": "CMakeFiles/PETA_WISATA.dir/src/searching.cpp.obj"
 }
 ]

@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/PETA_WISATA.dir/src/main.cpp.obj.d"
   "CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj"
   "CMakeFiles/PETA_WISATA.dir/src/mergeSort.cpp.obj.d"
+  "CMakeFiles/PETA_WISATA.dir/src/searching.cpp.obj"
+  "CMakeFiles/PETA_WISATA.dir/src/searching.cpp.obj.d"
   "PETA_WISATA.exe"
   "PETA_WISATA.exe.manifest"
   "PETA_WISATA.pdb"

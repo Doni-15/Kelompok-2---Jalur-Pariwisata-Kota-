@@ -7,7 +7,7 @@ typedef pair<int, string> jarakPair;
 
 class DjikstraAlgorithm{
     private:
-    static void cetakRute(const string& lokasiAwal, const string& lokasiTujuan, map<string, string>& ruteSebelumnya);
+        static void cetakRute(const string& lokasiAwal, const string& lokasiTujuan, map<string, string>& ruteSebelumnya);
     
     public:
         DjikstraAlgorithm();
